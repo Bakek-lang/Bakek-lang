@@ -12,9 +12,16 @@ Hi there! I'm Henrik - a front-end development student at Noroff, currently wrap
 ### Visitor Count:
 ![Visitor Count](https://profile-counter.glitch.me/bakek-lang/count.svg)
 
-[![Henrik's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakek-lang)](https://github.com/bakek-lang/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bakek-lang)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=bakek-lang" alt="Henrik's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakek-lang" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 ## A Bit More About Me 🌱
 
