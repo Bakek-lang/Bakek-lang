@@ -18,7 +18,7 @@ Hi there! I'm Henrik - a front-end development student at Noroff, currently wrap
       <img src="https://github-readme-stats.vercel.app/api?username=bakek-lang" alt="Henrik's GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakek-lang" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bakek-lang&hide=html,css" alt="Top Languages" />
     </td>
   </tr>
 </table>
