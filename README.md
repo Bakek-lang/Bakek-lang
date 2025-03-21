@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Henrik - a front-end development student at Noroff.
+Hi there! I'm Henrik - a frontend developer
 
 ## Languages I Speak 🗣️
 
